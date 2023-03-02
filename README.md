@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm RITIKA KUMARI</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikabaran&label=Profile%20views&color=0e75b6&style=flat" alt="ritikabaran" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritikabaran" alt="ritikabaran" /></a> </p>
 
-- 🔭 I’m currently working on **web development**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **all about Development,Frameworks and database**
+- 🌱 I’m currently learning **all about Development, Frameworks and Database**
 
-- 💬 Ask me about **Web Development,c++**
+- 💬 Ask me about **Web Development, C++**
 
 - 📫 How to reach me **kumariritika678@gmail.com**
 
