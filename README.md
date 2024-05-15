@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **all about Development, Frameworks and Database**
 
-- 💬 Ask me about **Web Development, C++**
+- 💬 Ask me about **Web Development, C++,Python,Java**
 
 - 📫 How to reach me **kumariritika678@gmail.com**
 
